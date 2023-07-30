@@ -1,0 +1,21 @@
+<!-- livebook:{"autosave_interval_s":60} -->
+
+# Introduction
+
+```elixir
+Mix.install([
+  {:kino_discord, path: "."}
+])
+```
+
+## Section
+
+```elixir
+name = "your name"
+```
+
+<!-- livebook:{"attrs":{"message":"Test message, {{name}} !","webhook_url_secret_name":""},"chunks":null,"kind":"Elixir.KinoDiscord.MessageCell","livebook_object":"smart_cell"} -->
+
+```elixir
+
+```
